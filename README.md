@@ -1,5 +1,7 @@
 # I Ching Daily: Oracle & Wisdom
 
+Repository slug: `ichingdaily-public-links`
+
 Public App Store support documents for **I Ching Daily: Oracle & Wisdom**.
 
 This repository is intentionally documentation-only. It does not contain app source code, private keys, subscription secrets, or user data.
@@ -22,4 +24,3 @@ I Ching Daily: Oracle & Wisdom is a reflective I Ching oracle app for daily self
 ## Contact
 
 Support email: 76462245@qq.com
-
