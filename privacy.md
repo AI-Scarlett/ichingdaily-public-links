@@ -2,7 +2,7 @@
 
 Effective date: May 25, 2026
 
-**I Ching Daily: Oracle & Wisdom** is designed as an offline-first reflective oracle and journaling app. This Privacy Policy explains what information the app stores, what information may leave your device, and how optional AI features work.
+**JadeName: Chinese Names** is a local-first cultural naming and language-learning app. This Privacy Policy explains what information the app stores and how it is used.
 
 ## Information We Do Not Collect
 
@@ -12,27 +12,25 @@ The app does not require an account. We do not operate a user account database. 
 
 The app may store the following data locally on your device:
 
-- Reading history
-- Optional questions entered by the user
-- Journal notes or favorites, if enabled
-- App preferences such as dark mode and language
-- Optional AI provider settings
+- Birth date, time, and place entered for local naming context
+- Preferred name, selected surname, and naming styles
+- Saved Chinese name candidates
+- App preferences such as language
 
-This local data is stored on your device and is not sent to our own server by the core offline reading experience.
+This local data is stored on your device and is not sent to our own server by the core offline reference experience.
 
-## Optional AI Features
+The current name generator works locally and does not send birth details to our server.
 
-AI features are disabled by default. If you enable AI features, the app may send your question, selected hexagram details, and related reading context to the AI provider you configure.
+## Optional User-Configured AI
 
-The app uses a bring-your-own-key model. Your API key is stored locally in the device Keychain. We do not receive or store your API key.
+JadeName does not provide an AI model, proxy, or server-side AI service. If you enable AI, you provide your own provider, endpoint, model, and API key. Your API key is stored locally in the device Keychain.
 
-AI provider processing is governed by the privacy policy and terms of the provider you choose.
+You choose whether birth details may be sent to your configured provider. If enabled, processing is governed by the provider you choose.
 
 ## In-App Purchases
 
 The app may offer auto-renewable subscriptions. Purchases and subscription status are processed by Apple through StoreKit. We do not receive your full payment card details.
 
-If you enter a custom support amount, that value is used locally to choose the closest available subscription tier. Payment processing is still handled by Apple.
 
 ## Analytics and Tracking
 
@@ -42,11 +40,11 @@ If analytics are added in the future, this Privacy Policy will be updated before
 
 ## Children
 
-The app is not directed to children under 13. The app provides symbolic and reflective content and is not a substitute for professional advice.
+The app is not directed to children under 13.
 
 ## Professional Advice Disclaimer
 
-The app provides symbolic readings for reflection and entertainment. It does not provide medical, legal, financial, psychological, or other professional advice.
+The app provides cultural naming and language-learning material. Five-element associations are creative cultural context, not predictions or professional advice.
 
 ## Data Deletion
 

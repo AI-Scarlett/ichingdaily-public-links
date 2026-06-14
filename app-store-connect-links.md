@@ -20,7 +20,7 @@ https://AI-Scarlett.github.io/ichingdaily-public-links/data-deletion.html
 - Support URL: `support.html`
 - Marketing URL: repository home page or app website, if available
 - Terms of Use URL: `terms.html`
-- Review Notes: mention that AI is disabled by default and offline readings work without network access
+- Review Notes: explain that the app creates Chinese names locally and uses five-element associations only as cultural naming context
 
 ## Mac Availability
 

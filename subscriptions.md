@@ -1,40 +1,36 @@
 # Subscription Information
 
-**I Ching Daily: Oracle & Wisdom** may offer monthly auto-renewable subscriptions through Apple In-App Purchase.
+**JadeName: Chinese Names** may offer a one-time Premium Report unlock and auto-renewable Pro subscriptions through Apple In-App Purchase.
 
 ## Subscription Benefits
 
-Membership may unlock:
+Premium Report may unlock:
 
-- Full reading sections
-- Changing line interpretation
-- Transformed hexagram guidance
-- Expanded journal features
-- Optional AI reading workflow, when configured by the user
+- 20+ personalized name candidates
+- Detailed character meanings
+- Five Elements and Yin-Yang cultural insights
+- Export-ready report and name card material
+- Expanded classical reference explanations
 
-## Support Tiers
+Pro may unlock ongoing value:
 
-The app may provide multiple monthly support tiers. Each tier is intended to unlock the same membership benefits while allowing users to choose the level of support that feels right.
+- Unlimited generation
+- Future baby, family, brand, and character naming modes
+- Additional export templates
+- Name cards, seal-style avatars, and calligraphy visuals
+- Complete saved-name history
 
 Product identifiers:
 
-- `monthly_seed`
-- `monthly_moon`
-- `monthly_jade`
-- `monthly_gold`
-- `monthly_sage`
+- `premium_report`
+- `pro_monthly`
+- `pro_yearly`
 
 Final pricing is displayed in the app before purchase and is handled by Apple.
 
-## Custom Support Amount
-
-The app may include a custom support amount field that accepts up to three decimal places. Because Apple In-App Purchase requires pre-approved products and price points, a custom amount cannot create a new live App Store price at the moment of purchase. The app uses the entered amount to select the closest available approved monthly support tier.
-
-The Apple purchase confirmation sheet always displays the final product, price, billing period, and Apple ID payment terms before purchase.
-
 ## Billing
 
-Payment is charged to your Apple ID at confirmation of purchase. Subscriptions automatically renew unless canceled at least 24 hours before the end of the current billing period.
+Payment is charged to your Apple ID at confirmation of purchase. Pro subscriptions automatically renew unless canceled at least 24 hours before the end of the current billing period.
 
 ## Managing or Canceling
 

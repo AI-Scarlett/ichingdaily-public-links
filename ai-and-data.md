@@ -1,27 +1,15 @@
-# AI and Data Disclosure
+# Local Data Disclosure
 
-AI features in **I Ching Daily: Oracle & Wisdom** are optional.
+**JadeName: Chinese Names** currently creates name candidates locally on the device.
 
 ## Default Behavior
 
-AI is disabled by default. The core I Ching reading experience is designed to work offline.
+The core naming experience is designed to work offline. Birth details, surname choices, naming styles, generated candidates, and saved names are not sent to our server.
 
-## Bring Your Own Key
+## Optional User-Configured AI
 
-If you enable AI features, you configure your own provider and API key. The API key is stored locally in the device Keychain.
+JadeName does not provide an AI service or proxy. Users may configure their own endpoint, model, and API key. The API key is stored locally in the device Keychain.
 
-## Data Sent to AI Providers
+Users choose whether birth details may be sent to their configured provider. If this option is off, AI-ready content should be limited to selected names, character meanings, scores, and cultural notes.
 
-When AI is enabled and you request an AI reading, the app may send:
-
-- Your question
-- Hexagram details
-- Changing line details
-- Reading context required to generate the response
-
-This data is sent only to the provider you configure.
-
-## No Professional Advice
-
-AI responses are generated text for reflection and entertainment. They may be inaccurate or incomplete. They are not medical, legal, financial, psychological, or professional advice.
-
+Five-element associations are used only as a creative cultural naming reference. They are not predictions or professional advice.
