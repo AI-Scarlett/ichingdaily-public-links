@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Effective date: May 25, 2026
+Updated: September 26, 2026
 
 **JadeName: Chinese Names** is a local-first cultural naming and language-learning app. This Privacy Policy explains what information the app stores and how it is used.
 
@@ -36,7 +36,7 @@ The app may offer auto-renewable subscriptions. Purchases and subscription statu
 
 The current version does not include third-party advertising SDKs or cross-app tracking.
 
-If analytics are added in the future, this Privacy Policy will be updated before release.
+The public support website uses our self-hosted Umami analytics to count page views and aggregate traffic. Its tracker is served through aiaiai.help and hosted on our Tencent Cloud server. It excludes URL search parameters and fragments and does not load when Do Not Track or Global Privacy Control is enabled. This website-only measurement is separate from the JadeName app and does not receive birth details, saved names, or API keys.
 
 ## Children
 
